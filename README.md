@@ -31,7 +31,7 @@ I used PostmanAPI for creating and sending response.
 1. Clone the repo
 
     ```sh
-    git clone https://github.com/tirthajyoti-ghosh/final-capstone-frontend.git
+    git clone https://github.com/vihashinidurga/Bike-Sevice-Application.git
     ```
 
 2. Install NPM packages
