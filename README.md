@@ -61,7 +61,7 @@ I used PostmanAPI for creating and sending response.
 
 3.Create a Customer
 
-![Screenshot (399)](https://github.com/vihashinidurga/Bike-Sevice-Application/assets/129977867/abd66eec-333b-4e16-be3a-3483e0cafb7a)
+<img width="790" height="899" alt="347471812-abd66eec-333b-4e16-be3a-3483e0cafb7a" src="https://github.com/user-attachments/assets/f319f7f9-ac91-46c5-a5a1-f3aa2bddbf34" />
 
 4.Book a Service by Customer
 
